@@ -36,6 +36,7 @@ My answers to LeetCode problems.
 | ------- |
 | [0011-container-with-most-water](https://github.com/SaiShadow/LeetCode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/SaiShadow/LeetCode/tree/master/0125-valid-palindrome) |
+| [0874-backspace-string-compare](https://github.com/SaiShadow/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SaiShadow/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Greedy
 |  |
@@ -49,11 +50,13 @@ My answers to LeetCode problems.
 | [0020-valid-parentheses](https://github.com/SaiShadow/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/SaiShadow/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/SaiShadow/LeetCode/tree/master/0125-valid-palindrome) |
+| [0874-backspace-string-compare](https://github.com/SaiShadow/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SaiShadow/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SaiShadow/LeetCode/tree/master/0020-valid-parentheses) |
+| [0874-backspace-string-compare](https://github.com/SaiShadow/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SaiShadow/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Binary Search
 |  |
@@ -99,4 +102,8 @@ My answers to LeetCode problems.
 |  |
 | ------- |
 | [1635-number-of-good-pairs](https://github.com/SaiShadow/LeetCode/tree/master/1635-number-of-good-pairs) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/SaiShadow/LeetCode/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
