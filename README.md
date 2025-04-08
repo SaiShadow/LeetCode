@@ -12,6 +12,7 @@ My answers to LeetCode problems.
 | [0049-group-anagrams](https://github.com/SaiShadow/LeetCode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaiShadow/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/SaiShadow/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/SaiShadow/LeetCode/tree/master/0229-majority-element-ii) |
 | [0817-design-hashmap](https://github.com/SaiShadow/LeetCode/tree/master/0817-design-hashmap) |
 | [1635-number-of-good-pairs](https://github.com/SaiShadow/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2756-buy-two-chocolates](https://github.com/SaiShadow/LeetCode/tree/master/2756-buy-two-chocolates) |
@@ -23,6 +24,7 @@ My answers to LeetCode problems.
 | [0001-two-sum](https://github.com/SaiShadow/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/SaiShadow/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/SaiShadow/LeetCode/tree/master/0128-longest-consecutive-sequence) |
+| [0229-majority-element-ii](https://github.com/SaiShadow/LeetCode/tree/master/0229-majority-element-ii) |
 | [0817-design-hashmap](https://github.com/SaiShadow/LeetCode/tree/master/0817-design-hashmap) |
 | [1635-number-of-good-pairs](https://github.com/SaiShadow/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SaiShadow/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -31,6 +33,7 @@ My answers to LeetCode problems.
 |  |
 | ------- |
 | [0049-group-anagrams](https://github.com/SaiShadow/LeetCode/tree/master/0049-group-anagrams) |
+| [0229-majority-element-ii](https://github.com/SaiShadow/LeetCode/tree/master/0229-majority-element-ii) |
 | [2756-buy-two-chocolates](https://github.com/SaiShadow/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SaiShadow/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Two Pointers
@@ -108,6 +111,7 @@ My answers to LeetCode problems.
 ## Counting
 |  |
 | ------- |
+| [0229-majority-element-ii](https://github.com/SaiShadow/LeetCode/tree/master/0229-majority-element-ii) |
 | [1635-number-of-good-pairs](https://github.com/SaiShadow/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Simulation
 |  |
