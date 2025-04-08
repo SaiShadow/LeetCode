@@ -11,6 +11,7 @@ My answers to LeetCode problems.
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/SaiShadow/LeetCode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0049-group-anagrams](https://github.com/SaiShadow/LeetCode/tree/master/0049-group-anagrams) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaiShadow/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/SaiShadow/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SaiShadow/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SaiShadow/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
@@ -18,6 +19,7 @@ My answers to LeetCode problems.
 | ------- |
 | [0001-two-sum](https://github.com/SaiShadow/LeetCode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/SaiShadow/LeetCode/tree/master/0049-group-anagrams) |
+| [0128-longest-consecutive-sequence](https://github.com/SaiShadow/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SaiShadow/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SaiShadow/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Sorting
@@ -52,4 +54,8 @@ My answers to LeetCode problems.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaiShadow/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/SaiShadow/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
