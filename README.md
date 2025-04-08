@@ -76,6 +76,7 @@ My answers to LeetCode problems.
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaiShadow/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0343-integer-break](https://github.com/SaiShadow/LeetCode/tree/master/0343-integer-break) |
 | [0815-champagne-tower](https://github.com/SaiShadow/LeetCode/tree/master/0815-champagne-tower) |
 ## Union Find
 |  |
@@ -109,6 +110,7 @@ My answers to LeetCode problems.
 ## Math
 |  |
 | ------- |
+| [0343-integer-break](https://github.com/SaiShadow/LeetCode/tree/master/0343-integer-break) |
 | [0795-k-th-symbol-in-grammar](https://github.com/SaiShadow/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1635-number-of-good-pairs](https://github.com/SaiShadow/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Counting
