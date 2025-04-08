@@ -7,6 +7,7 @@ My answers to LeetCode problems.
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/SaiShadow/LeetCode/tree/master/0001-two-sum) |
+| [0011-container-with-most-water](https://github.com/SaiShadow/LeetCode/tree/master/0011-container-with-most-water) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SaiShadow/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SaiShadow/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Hash Table
@@ -19,4 +20,12 @@ My answers to LeetCode problems.
 |  |
 | ------- |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SaiShadow/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+## Two Pointers
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/SaiShadow/LeetCode/tree/master/0011-container-with-most-water) |
+## Greedy
+|  |
+| ------- |
+| [0011-container-with-most-water](https://github.com/SaiShadow/LeetCode/tree/master/0011-container-with-most-water) |
 <!---LeetCode Topics End-->
