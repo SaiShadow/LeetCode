@@ -25,6 +25,7 @@ My answers to LeetCode problems.
 | [0049-group-anagrams](https://github.com/SaiShadow/LeetCode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/SaiShadow/LeetCode/tree/master/0128-longest-consecutive-sequence) |
 | [0229-majority-element-ii](https://github.com/SaiShadow/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/SaiShadow/LeetCode/tree/master/0242-valid-anagram) |
 | [0817-design-hashmap](https://github.com/SaiShadow/LeetCode/tree/master/0817-design-hashmap) |
 | [1635-number-of-good-pairs](https://github.com/SaiShadow/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SaiShadow/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -34,6 +35,7 @@ My answers to LeetCode problems.
 | ------- |
 | [0049-group-anagrams](https://github.com/SaiShadow/LeetCode/tree/master/0049-group-anagrams) |
 | [0229-majority-element-ii](https://github.com/SaiShadow/LeetCode/tree/master/0229-majority-element-ii) |
+| [0242-valid-anagram](https://github.com/SaiShadow/LeetCode/tree/master/0242-valid-anagram) |
 | [2756-buy-two-chocolates](https://github.com/SaiShadow/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SaiShadow/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 ## Two Pointers
@@ -56,6 +58,7 @@ My answers to LeetCode problems.
 | [0020-valid-parentheses](https://github.com/SaiShadow/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/SaiShadow/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/SaiShadow/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/SaiShadow/LeetCode/tree/master/0242-valid-anagram) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SaiShadow/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0874-backspace-string-compare](https://github.com/SaiShadow/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SaiShadow/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
