@@ -34,10 +34,12 @@ My answers to LeetCode problems.
 | ------- |
 | [0011-container-with-most-water](https://github.com/SaiShadow/LeetCode/tree/master/0011-container-with-most-water) |
 | [0125-valid-palindrome](https://github.com/SaiShadow/LeetCode/tree/master/0125-valid-palindrome) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SaiShadow/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Greedy
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SaiShadow/LeetCode/tree/master/0011-container-with-most-water) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SaiShadow/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2756-buy-two-chocolates](https://github.com/SaiShadow/LeetCode/tree/master/2756-buy-two-chocolates) |
 ## String
 |  |
@@ -45,10 +47,12 @@ My answers to LeetCode problems.
 | [0020-valid-parentheses](https://github.com/SaiShadow/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/SaiShadow/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/SaiShadow/LeetCode/tree/master/0125-valid-palindrome) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SaiShadow/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SaiShadow/LeetCode/tree/master/0020-valid-parentheses) |
+| [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SaiShadow/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 ## Binary Search
 |  |
 | ------- |
