@@ -29,6 +29,7 @@ My answers to LeetCode problems.
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/SaiShadow/LeetCode/tree/master/0011-container-with-most-water) |
+| [0125-valid-palindrome](https://github.com/SaiShadow/LeetCode/tree/master/0125-valid-palindrome) |
 ## Greedy
 |  |
 | ------- |
@@ -38,6 +39,7 @@ My answers to LeetCode problems.
 | ------- |
 | [0020-valid-parentheses](https://github.com/SaiShadow/LeetCode/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/SaiShadow/LeetCode/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/SaiShadow/LeetCode/tree/master/0125-valid-palindrome) |
 ## Stack
 |  |
 | ------- |
