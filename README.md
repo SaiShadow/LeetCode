@@ -79,6 +79,7 @@ My answers to LeetCode problems.
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/SaiShadow/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0795-k-th-symbol-in-grammar](https://github.com/SaiShadow/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 ## Tree
 |  |
 | ------- |
@@ -98,6 +99,7 @@ My answers to LeetCode problems.
 ## Math
 |  |
 | ------- |
+| [0795-k-th-symbol-in-grammar](https://github.com/SaiShadow/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1635-number-of-good-pairs](https://github.com/SaiShadow/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Counting
 |  |
@@ -107,4 +109,8 @@ My answers to LeetCode problems.
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/SaiShadow/LeetCode/tree/master/0874-backspace-string-compare) |
+## Recursion
+|  |
+| ------- |
+| [0795-k-th-symbol-in-grammar](https://github.com/SaiShadow/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 <!---LeetCode Topics End-->
