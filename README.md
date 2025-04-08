@@ -94,6 +94,7 @@ My answers to LeetCode problems.
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/SaiShadow/LeetCode/tree/master/0191-number-of-1-bits) |
+| [0342-power-of-four](https://github.com/SaiShadow/LeetCode/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/SaiShadow/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 ## Tree
 |  |
@@ -114,6 +115,7 @@ My answers to LeetCode problems.
 ## Math
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/SaiShadow/LeetCode/tree/master/0342-power-of-four) |
 | [0343-integer-break](https://github.com/SaiShadow/LeetCode/tree/master/0343-integer-break) |
 | [0795-k-th-symbol-in-grammar](https://github.com/SaiShadow/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1635-number-of-good-pairs](https://github.com/SaiShadow/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -130,6 +132,7 @@ My answers to LeetCode problems.
 ## Recursion
 |  |
 | ------- |
+| [0342-power-of-four](https://github.com/SaiShadow/LeetCode/tree/master/0342-power-of-four) |
 | [0795-k-th-symbol-in-grammar](https://github.com/SaiShadow/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 ## Linked List
 |  |
