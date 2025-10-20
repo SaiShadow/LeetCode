@@ -17,6 +17,7 @@ My answers to LeetCode problems.
 | [0817-design-hashmap](https://github.com/SaiShadow/LeetCode/tree/master/0817-design-hashmap) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SaiShadow/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/SaiShadow/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/SaiShadow/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2756-buy-two-chocolates](https://github.com/SaiShadow/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SaiShadow/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SaiShadow/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -67,6 +68,7 @@ My answers to LeetCode problems.
 | [0557-reverse-words-in-a-string-iii](https://github.com/SaiShadow/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0874-backspace-string-compare](https://github.com/SaiShadow/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SaiShadow/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/SaiShadow/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Stack
 |  |
 | ------- |
@@ -132,6 +134,7 @@ My answers to LeetCode problems.
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/SaiShadow/LeetCode/tree/master/0874-backspace-string-compare) |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/SaiShadow/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Recursion
 |  |
 | ------- |
