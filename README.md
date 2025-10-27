@@ -18,6 +18,7 @@ My answers to LeetCode problems.
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SaiShadow/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/SaiShadow/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SaiShadow/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/SaiShadow/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2756-buy-two-chocolates](https://github.com/SaiShadow/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SaiShadow/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SaiShadow/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -69,6 +70,7 @@ My answers to LeetCode problems.
 | [0874-backspace-string-compare](https://github.com/SaiShadow/LeetCode/tree/master/0874-backspace-string-compare) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SaiShadow/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SaiShadow/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/SaiShadow/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Stack
 |  |
 | ------- |
@@ -124,6 +126,7 @@ My answers to LeetCode problems.
 | [0795-k-th-symbol-in-grammar](https://github.com/SaiShadow/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SaiShadow/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1635-number-of-good-pairs](https://github.com/SaiShadow/LeetCode/tree/master/1635-number-of-good-pairs) |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/SaiShadow/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 ## Counting
 |  |
 | ------- |
@@ -164,4 +167,8 @@ My answers to LeetCode problems.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SaiShadow/LeetCode/tree/master/0347-top-k-frequent-elements) |
+## Matrix
+|  |
+| ------- |
+| [2244-number-of-laser-beams-in-a-bank](https://github.com/SaiShadow/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 <!---LeetCode Topics End-->
