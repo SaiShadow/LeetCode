@@ -22,6 +22,7 @@ My answers to LeetCode problems.
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SaiShadow/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2756-buy-two-chocolates](https://github.com/SaiShadow/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SaiShadow/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SaiShadow/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SaiShadow/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/SaiShadow/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SaiShadow/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -38,6 +39,7 @@ My answers to LeetCode problems.
 | [0817-design-hashmap](https://github.com/SaiShadow/LeetCode/tree/master/0817-design-hashmap) |
 | [1635-number-of-good-pairs](https://github.com/SaiShadow/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SaiShadow/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SaiShadow/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SaiShadow/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SaiShadow/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Sorting
@@ -156,6 +158,7 @@ My answers to LeetCode problems.
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/SaiShadow/LeetCode/tree/master/0817-design-hashmap) |
+| [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SaiShadow/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Design
 |  |
 | ------- |
