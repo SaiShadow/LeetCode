@@ -26,6 +26,7 @@ My answers to LeetCode problems.
 | [2888-minimum-index-of-a-valid-split](https://github.com/SaiShadow/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SaiShadow/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SaiShadow/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SaiShadow/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/SaiShadow/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SaiShadow/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SaiShadow/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
@@ -43,6 +44,7 @@ My answers to LeetCode problems.
 | [2888-minimum-index-of-a-valid-split](https://github.com/SaiShadow/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SaiShadow/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SaiShadow/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SaiShadow/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SaiShadow/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 ## Sorting
 |  |
@@ -177,6 +179,7 @@ My answers to LeetCode problems.
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/SaiShadow/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SaiShadow/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -198,4 +201,8 @@ My answers to LeetCode problems.
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SaiShadow/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+## Sliding Window
+|  |
+| ------- |
+| [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SaiShadow/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 <!---LeetCode Topics End-->
