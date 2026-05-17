@@ -15,6 +15,7 @@ My answers to LeetCode problems.
 | [0229-majority-element-ii](https://github.com/SaiShadow/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/SaiShadow/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0817-design-hashmap](https://github.com/SaiShadow/LeetCode/tree/master/0817-design-hashmap) |
+| [1306-jump-game-iii](https://github.com/SaiShadow/LeetCode/tree/master/1306-jump-game-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SaiShadow/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SaiShadow/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1635-number-of-good-pairs](https://github.com/SaiShadow/LeetCode/tree/master/1635-number-of-good-pairs) |
@@ -126,10 +127,12 @@ My answers to LeetCode problems.
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SaiShadow/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1306-jump-game-iii](https://github.com/SaiShadow/LeetCode/tree/master/1306-jump-game-iii) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SaiShadow/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1306-jump-game-iii](https://github.com/SaiShadow/LeetCode/tree/master/1306-jump-game-iii) |
 ## Binary Tree
 |  |
 | ------- |
