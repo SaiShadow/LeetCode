@@ -6,13 +6,13 @@ class Solution {
         // first invalid boundary
         stack.push(-1);
 
-        for(int i = 0; i < s.length(); i++) {
+        for (int i = 0; i < s.length(); i++) {
             char c = s.charAt(i);
-            if(c == '('){
+            if (c == '(') {
                 stack.push(i);
             } else {
                 stack.pop();
-                if(stack.empty()) {
+                if (stack.empty()) {
                     // invalid boundary
                     stack.push(i);
                 } else {
