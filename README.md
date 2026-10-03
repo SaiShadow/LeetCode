@@ -81,6 +81,7 @@ My answers to LeetCode problems.
 | ------- |
 | [0020-valid-parentheses](https://github.com/SaiShadow/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SaiShadow/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SaiShadow/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/SaiShadow/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/SaiShadow/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SaiShadow/LeetCode/tree/master/0242-valid-anagram) |
@@ -96,6 +97,7 @@ My answers to LeetCode problems.
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/SaiShadow/LeetCode/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SaiShadow/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0874-backspace-string-compare](https://github.com/SaiShadow/LeetCode/tree/master/0874-backspace-string-compare) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SaiShadow/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SaiShadow/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -109,6 +111,7 @@ My answers to LeetCode problems.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SaiShadow/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SaiShadow/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SaiShadow/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0343-integer-break](https://github.com/SaiShadow/LeetCode/tree/master/0343-integer-break) |
 | [0815-champagne-tower](https://github.com/SaiShadow/LeetCode/tree/master/0815-champagne-tower) |
@@ -227,6 +230,7 @@ My answers to LeetCode problems.
 | ------- |
 | [0020-valid-parentheses](https://github.com/SaiShadow/LeetCode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/SaiShadow/LeetCode/tree/master/0022-generate-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/SaiShadow/LeetCode/tree/master/0032-longest-valid-parentheses) |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/SaiShadow/LeetCode/tree/master/1111-maximum-nesting-depth-of-two-valid-parentheses-strings) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SaiShadow/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SaiShadow/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
