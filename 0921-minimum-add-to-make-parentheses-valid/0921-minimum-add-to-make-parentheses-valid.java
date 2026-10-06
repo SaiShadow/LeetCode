@@ -3,15 +3,14 @@ class Solution {
 
         int open = 0;
         int changes = 0;
-
-        for (int i = 0; i < s.length(); i++) {
-            char c = s.charAt(i);
+        
+        for(char c : s.toCharArray()) {
             if (c == '(') {
                 open++;
             } else {
                 if (open <= 0) {
                     changes++;
-                } else {
+                }else {
                     open--;
                 }
             }
