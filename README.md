@@ -87,6 +87,7 @@ My answers to LeetCode problems.
 | [0049-group-anagrams](https://github.com/SaiShadow/LeetCode/tree/master/0049-group-anagrams) |
 | [0125-valid-palindrome](https://github.com/SaiShadow/LeetCode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/SaiShadow/LeetCode/tree/master/0242-valid-anagram) |
+| [0301-remove-invalid-parentheses](https://github.com/SaiShadow/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SaiShadow/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0678-valid-parenthesis-string](https://github.com/SaiShadow/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0856-score-of-parentheses](https://github.com/SaiShadow/LeetCode/tree/master/0856-score-of-parentheses) |
@@ -155,6 +156,7 @@ My answers to LeetCode problems.
 ## Breadth-First Search
 |  |
 | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/SaiShadow/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SaiShadow/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1306-jump-game-iii](https://github.com/SaiShadow/LeetCode/tree/master/1306-jump-game-iii) |
 ## Binary Tree
@@ -250,4 +252,5 @@ My answers to LeetCode problems.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/SaiShadow/LeetCode/tree/master/0022-generate-parentheses) |
+| [0301-remove-invalid-parentheses](https://github.com/SaiShadow/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 <!---LeetCode Topics End-->
