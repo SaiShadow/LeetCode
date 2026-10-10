@@ -22,12 +22,11 @@ class Solution {
 
             int next = max - 1;
             long count = freq[max];
-            long cost = count;
 
-            if (cost <= k) {
+            if (count <= k) {
                 freq[max] = 0;
                 freq[next] += count;
-                k -= cost;
+                k -= count;
             } else {
                 long div = k / count;
                 long rem = k % count;
