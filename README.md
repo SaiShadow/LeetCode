@@ -28,6 +28,7 @@ My answers to LeetCode problems.
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SaiShadow/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SaiShadow/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2756-buy-two-chocolates](https://github.com/SaiShadow/LeetCode/tree/master/2756-buy-two-chocolates) |
+| [2778-sum-of-squares-of-special-elements](https://github.com/SaiShadow/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SaiShadow/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SaiShadow/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SaiShadow/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -265,4 +266,8 @@ My answers to LeetCode problems.
 | ------- |
 | [0022-generate-parentheses](https://github.com/SaiShadow/LeetCode/tree/master/0022-generate-parentheses) |
 | [0301-remove-invalid-parentheses](https://github.com/SaiShadow/LeetCode/tree/master/0301-remove-invalid-parentheses) |
+## Enumeration
+|  |
+| ------- |
+| [2778-sum-of-squares-of-special-elements](https://github.com/SaiShadow/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 <!---LeetCode Topics End-->
