@@ -31,6 +31,7 @@ My answers to LeetCode problems.
 | [2778-sum-of-squares-of-special-elements](https://github.com/SaiShadow/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SaiShadow/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SaiShadow/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SaiShadow/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SaiShadow/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SaiShadow/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SaiShadow/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -52,6 +53,7 @@ My answers to LeetCode problems.
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SaiShadow/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SaiShadow/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SaiShadow/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SaiShadow/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SaiShadow/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SaiShadow/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SaiShadow/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
@@ -279,4 +281,12 @@ My answers to LeetCode problems.
 |  |
 | ------- |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SaiShadow/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SaiShadow/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Segment Tree
+|  |
+| ------- |
+| [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SaiShadow/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 <!---LeetCode Topics End-->
