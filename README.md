@@ -17,6 +17,7 @@ My answers to LeetCode problems.
 | [0817-design-hashmap](https://github.com/SaiShadow/LeetCode/tree/master/0817-design-hashmap) |
 | [1306-jump-game-iii](https://github.com/SaiShadow/LeetCode/tree/master/1306-jump-game-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SaiShadow/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiShadow/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SaiShadow/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1635-number-of-good-pairs](https://github.com/SaiShadow/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SaiShadow/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -149,6 +150,7 @@ My answers to LeetCode problems.
 | [0343-integer-break](https://github.com/SaiShadow/LeetCode/tree/master/0343-integer-break) |
 | [0678-valid-parenthesis-string](https://github.com/SaiShadow/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0815-champagne-tower](https://github.com/SaiShadow/LeetCode/tree/master/0815-champagne-tower) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiShadow/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SaiShadow/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SaiShadow/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SaiShadow/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
@@ -161,6 +163,7 @@ My answers to LeetCode problems.
 | ------- |
 | [0191-number-of-1-bits](https://github.com/SaiShadow/LeetCode/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/SaiShadow/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiShadow/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -173,6 +176,7 @@ My answers to LeetCode problems.
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SaiShadow/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiShadow/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -188,6 +192,7 @@ My answers to LeetCode problems.
 |  |
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SaiShadow/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiShadow/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 ## Math
 |  |
 | ------- |
@@ -195,6 +200,7 @@ My answers to LeetCode problems.
 | [0343-integer-break](https://github.com/SaiShadow/LeetCode/tree/master/0343-integer-break) |
 | [0795-k-th-symbol-in-grammar](https://github.com/SaiShadow/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SaiShadow/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiShadow/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1635-number-of-good-pairs](https://github.com/SaiShadow/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SaiShadow/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SaiShadow/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -296,4 +302,24 @@ My answers to LeetCode problems.
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SaiShadow/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/SaiShadow/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+## Union-Find
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiShadow/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Binary Search Tree
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiShadow/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Memoization
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiShadow/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Combinatorics
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiShadow/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+## Fermat's Little Theorem
+|  |
+| ------- |
+| [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiShadow/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 <!---LeetCode Topics End-->
