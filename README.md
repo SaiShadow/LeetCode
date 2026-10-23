@@ -41,6 +41,7 @@ My answers to LeetCode problems.
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SaiShadow/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SaiShadow/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/SaiShadow/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/SaiShadow/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SaiShadow/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SaiShadow/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SaiShadow/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -180,6 +181,7 @@ My answers to LeetCode problems.
 | [0795-k-th-symbol-in-grammar](https://github.com/SaiShadow/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SaiShadow/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SaiShadow/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/SaiShadow/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Tree
 |  |
 | ------- |
