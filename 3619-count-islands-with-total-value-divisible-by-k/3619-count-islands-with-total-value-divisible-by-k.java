@@ -16,7 +16,6 @@ class Solution {
                 }
 
                 long islandSum = dfs(r, c, grid);
-
                 if (islandSum > 0 && islandSum % k == 0) {
                     islands++;
                 }
@@ -47,5 +46,4 @@ class Solution {
 
         return grid[r][c] + left + right + up + down;
     }
-
 }
