@@ -49,6 +49,7 @@ My answers to LeetCode problems.
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SaiShadow/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SaiShadow/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SaiShadow/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SaiShadow/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SaiShadow/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/SaiShadow/LeetCode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
 ## Hash Table
@@ -231,6 +232,7 @@ My answers to LeetCode problems.
 | [2409-count-days-spent-together](https://github.com/SaiShadow/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SaiShadow/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/SaiShadow/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SaiShadow/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 ## Counting
 |  |
 | ------- |
