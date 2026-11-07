@@ -15,9 +15,9 @@ class Solution {
 
         while (taskQueue < tasks.length) {
             // release all servers that complete at this time
-            boolean released = release(busy, pq, time);
+            release(busy, pq, time);
 
-            if(pq.isEmpty()) {
+            if (pq.isEmpty()) {
                 time = busy.firstKey();
                 continue;
             }
@@ -35,11 +35,10 @@ class Solution {
         return sol;
     }
 
-    private boolean release(Map<Long, Set<Integer>> busy, PriorityQueue<Integer> pq, long time) {
+    private void release(Map<Long, Set<Integer>> busy, PriorityQueue<Integer> pq, long time) {
         for (int s : busy.getOrDefault(time, Set.of())) {
             pq.add(s);
         }
-
-        return busy.remove(time) != null;
+        busy.remove(time);
     }
 }
