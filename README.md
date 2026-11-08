@@ -19,6 +19,7 @@ My answers to LeetCode problems.
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SaiShadow/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0817-design-hashmap](https://github.com/SaiShadow/LeetCode/tree/master/0817-design-hashmap) |
 | [1254-number-of-closed-islands](https://github.com/SaiShadow/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/SaiShadow/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/SaiShadow/LeetCode/tree/master/1306-jump-game-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SaiShadow/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiShadow/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -203,6 +204,7 @@ My answers to LeetCode problems.
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SaiShadow/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1254-number-of-closed-islands](https://github.com/SaiShadow/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/SaiShadow/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/SaiShadow/LeetCode/tree/master/1306-jump-game-iii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SaiShadow/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
@@ -211,6 +213,7 @@ My answers to LeetCode problems.
 | [0301-remove-invalid-parentheses](https://github.com/SaiShadow/LeetCode/tree/master/0301-remove-invalid-parentheses) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SaiShadow/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1254-number-of-closed-islands](https://github.com/SaiShadow/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/SaiShadow/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/SaiShadow/LeetCode/tree/master/1306-jump-game-iii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SaiShadow/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Tree
@@ -239,6 +242,7 @@ My answers to LeetCode problems.
 | ------- |
 | [0229-majority-element-ii](https://github.com/SaiShadow/LeetCode/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/SaiShadow/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [1267-count-servers-that-communicate](https://github.com/SaiShadow/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1635-number-of-good-pairs](https://github.com/SaiShadow/LeetCode/tree/master/1635-number-of-good-pairs) |
 ## Simulation
 |  |
@@ -285,6 +289,7 @@ My answers to LeetCode problems.
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/SaiShadow/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/SaiShadow/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SaiShadow/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SaiShadow/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SaiShadow/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
@@ -339,6 +344,7 @@ My answers to LeetCode problems.
 |  |
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/SaiShadow/LeetCode/tree/master/1254-number-of-closed-islands) |
+| [1267-count-servers-that-communicate](https://github.com/SaiShadow/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiShadow/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SaiShadow/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Binary Search Tree
