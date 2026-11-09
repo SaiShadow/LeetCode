@@ -1,7 +1,6 @@
 class Solution {
     public List<Integer> busiestServers(int k, int[] arrival, int[] load) {
         long[] freq = new long[k];
-        // long[] busyUntil = new long[k];
         PriorityQueue<long[]> busy = new PriorityQueue<>((a, b) -> Long.compare(a[1], b[1]));
         TreeSet<Integer> available = new TreeSet<>();
 
@@ -15,11 +14,11 @@ class Solution {
             int wantedServer = i % k;
 
             releaseServers(arrivalTime, busy, available);
+
             int server = findSuitableServer(arrivalTime, available, wantedServer);
             if (server == -1) {
                 continue;
             }
-
             freq[server]++;
             available.remove(server);
             busy.add(new long[]{server, arrivalTime + duration});
@@ -47,7 +46,6 @@ class Solution {
         if (available.isEmpty()) {
             return -1;
         }
-
         Integer server = available.ceiling(wantedServer);
         if (server == null) {
             return available.first();
