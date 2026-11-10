@@ -51,6 +51,7 @@ My answers to LeetCode problems.
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/SaiShadow/LeetCode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/SaiShadow/LeetCode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
 | [3685-count-subarrays-of-length-three-with-a-condition](https://github.com/SaiShadow/LeetCode/tree/master/3685-count-subarrays-of-length-three-with-a-condition) |
+| [3693-climbing-stairs-ii](https://github.com/SaiShadow/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/SaiShadow/LeetCode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/SaiShadow/LeetCode/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SaiShadow/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
@@ -174,6 +175,7 @@ My answers to LeetCode problems.
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SaiShadow/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SaiShadow/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/SaiShadow/LeetCode/tree/master/2267-check-if-there-is-a-valid-parentheses-string-path) |
+| [3693-climbing-stairs-ii](https://github.com/SaiShadow/LeetCode/tree/master/3693-climbing-stairs-ii) |
 | [3882-minimum-xor-path-in-a-grid](https://github.com/SaiShadow/LeetCode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Union Find
 |  |
