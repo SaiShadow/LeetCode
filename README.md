@@ -44,6 +44,7 @@ My answers to LeetCode problems.
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/SaiShadow/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SaiShadow/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SaiShadow/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SaiShadow/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SaiShadow/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SaiShadow/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SaiShadow/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -159,6 +160,7 @@ My answers to LeetCode problems.
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SaiShadow/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SaiShadow/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SaiShadow/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SaiShadow/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Binary Search
 |  |
 | ------- |
@@ -313,10 +315,12 @@ My answers to LeetCode problems.
 |  |
 | ------- |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SaiShadow/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SaiShadow/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Sliding Window
 |  |
 | ------- |
 | [3364-minimum-positive-sum-subarray](https://github.com/SaiShadow/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SaiShadow/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SaiShadow/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
 ## Bracket Sequences
 |  |
@@ -351,6 +355,7 @@ My answers to LeetCode problems.
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SaiShadow/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/SaiShadow/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SaiShadow/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 ## Union-Find
 |  |
 | ------- |
@@ -378,4 +383,12 @@ My answers to LeetCode problems.
 |  |
 | ------- |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SaiShadow/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
+## Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SaiShadow/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Monotonic Queue
+|  |
+| ------- |
+| [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SaiShadow/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 <!---LeetCode Topics End-->
