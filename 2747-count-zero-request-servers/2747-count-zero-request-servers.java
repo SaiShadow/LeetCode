@@ -1,64 +1,53 @@
 class Solution {
     public int[] countServers(int n, int[][] logs, int x, int[] queries) {
         Map<Integer, Set<Integer>> map = new HashMap<>();
-
         for (int[] log : logs) {
             map.computeIfAbsent(log[1], k -> new HashSet<>()).add(log[0]);
         }
 
-        int m = queries.length;
-        int[] sol = new int[m];
-
-        int[][] indexedSortQuery = new int[m][2];
-
-        for (int i = 0; i < m; i++) {
+        int[][] indexedSortQuery = new int[queries.length][2];
+        for (int i = 0; i < queries.length; i++) {
             indexedSortQuery[i][0] = i;
             indexedSortQuery[i][1] = queries[i];
         }
+        Arrays.sort(indexedSortQuery, (a, b) -> Integer.compare(a[1], b[1]));
 
-        Arrays.sort(indexedSortQuery,
-                (a, b) -> Integer.compare(a[1], b[1]));
-
+        int[] sol = new int[queries.length];
         int[] count = new int[n + 1];
+        int l = indexedSortQuery[0][1] - x;
+        int r = l;
         int active = 0;
-
-        int left = indexedSortQuery[0][1] - x;
-        int right = left - 1;
-
         for (int[] query : indexedSortQuery) {
             int index = query[0];
             int q = query[1];
 
-            // Expand right boundary
-            while (right < q) {
-                right++;
-
-                Set<Integer> servers = map.get(right);
-
+            // extend right
+            while (r <= q) {
+                Set<Integer> servers = map.get(r);
                 if (servers != null) {
-                    for (int server : servers) {
-                        if (count[server]++ == 0) {
+                    for (int s : servers) {
+                        int prev = count[s]++;
+                        if (prev == 0) {
                             active++;
                         }
                     }
                 }
+                r++;
             }
 
-            // Shrink left boundary
-            while (left < q - x) {
-                Set<Integer> servers = map.get(left);
-
+            // retreat left
+            while (l < q - x) {
+                Set<Integer> servers = map.get(l);
                 if (servers != null) {
-                    for (int server : servers) {
-                        if (--count[server] == 0) {
+                    for (int s : servers) {
+                        int after = --count[s];
+                        if (after == 0) {
                             active--;
                         }
                     }
                 }
-
-                left++;
+                l++;
             }
-
             sol[index] = n - active;
         }
 
