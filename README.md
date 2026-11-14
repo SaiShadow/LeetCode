@@ -36,6 +36,7 @@ My answers to LeetCode problems.
 | [2333-minimum-sum-of-squared-difference](https://github.com/SaiShadow/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SaiShadow/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SaiShadow/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/SaiShadow/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2756-buy-two-chocolates](https://github.com/SaiShadow/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/SaiShadow/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SaiShadow/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
@@ -71,6 +72,7 @@ My answers to LeetCode problems.
 | [0817-design-hashmap](https://github.com/SaiShadow/LeetCode/tree/master/0817-design-hashmap) |
 | [1635-number-of-good-pairs](https://github.com/SaiShadow/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2657-find-the-prefix-common-array-of-two-arrays](https://github.com/SaiShadow/LeetCode/tree/master/2657-find-the-prefix-common-array-of-two-arrays) |
+| [2747-count-zero-request-servers](https://github.com/SaiShadow/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SaiShadow/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SaiShadow/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SaiShadow/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -91,6 +93,7 @@ My answers to LeetCode problems.
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SaiShadow/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/SaiShadow/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2333-minimum-sum-of-squared-difference](https://github.com/SaiShadow/LeetCode/tree/master/2333-minimum-sum-of-squared-difference) |
+| [2747-count-zero-request-servers](https://github.com/SaiShadow/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [2756-buy-two-chocolates](https://github.com/SaiShadow/LeetCode/tree/master/2756-buy-two-chocolates) |
 | [2888-minimum-index-of-a-valid-split](https://github.com/SaiShadow/LeetCode/tree/master/2888-minimum-index-of-a-valid-split) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SaiShadow/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
@@ -319,6 +322,7 @@ My answers to LeetCode problems.
 ## Sliding Window
 |  |
 | ------- |
+| [2747-count-zero-request-servers](https://github.com/SaiShadow/LeetCode/tree/master/2747-count-zero-request-servers) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SaiShadow/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SaiShadow/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3610-find-x-sum-of-all-k-long-subarrays-i](https://github.com/SaiShadow/LeetCode/tree/master/3610-find-x-sum-of-all-k-long-subarrays-i) |
