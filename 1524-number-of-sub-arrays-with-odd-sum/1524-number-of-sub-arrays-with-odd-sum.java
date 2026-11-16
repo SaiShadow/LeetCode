@@ -1,8 +1,7 @@
 class Solution {
     public int numOfSubarrays(int[] arr) {
-        // this is a hint 1 <= arr[i] <= 100?
         final int MOD = 1_000_000_000 + 7;
-        int[] dp = new int[2]; // dp[odd / even]
+        int[] dp = new int[2]; // count of the odd / even subarrays of only i - 1 
         int count = 0;
 
         for (int num : arr) {
