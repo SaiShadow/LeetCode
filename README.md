@@ -22,6 +22,7 @@ My answers to LeetCode problems.
 | [1267-count-servers-that-communicate](https://github.com/SaiShadow/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/SaiShadow/LeetCode/tree/master/1306-jump-game-iii) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SaiShadow/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SaiShadow/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiShadow/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SaiShadow/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SaiShadow/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
@@ -180,6 +181,7 @@ My answers to LeetCode problems.
 | [0343-integer-break](https://github.com/SaiShadow/LeetCode/tree/master/0343-integer-break) |
 | [0678-valid-parenthesis-string](https://github.com/SaiShadow/LeetCode/tree/master/0678-valid-parenthesis-string) |
 | [0815-champagne-tower](https://github.com/SaiShadow/LeetCode/tree/master/0815-champagne-tower) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SaiShadow/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiShadow/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array](https://github.com/SaiShadow/LeetCode/tree/master/1633-minimum-number-of-increments-on-subarrays-to-form-a-target-array) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SaiShadow/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
@@ -242,6 +244,7 @@ My answers to LeetCode problems.
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SaiShadow/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0795-k-th-symbol-in-grammar](https://github.com/SaiShadow/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SaiShadow/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SaiShadow/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiShadow/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
 | [1635-number-of-good-pairs](https://github.com/SaiShadow/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SaiShadow/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
@@ -314,6 +317,7 @@ My answers to LeetCode problems.
 ## Prefix Sum
 |  |
 | ------- |
+| [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SaiShadow/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SaiShadow/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/SaiShadow/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Monotonic Stack
