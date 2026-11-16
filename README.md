@@ -145,6 +145,7 @@ My answers to LeetCode problems.
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SaiShadow/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SaiShadow/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SaiShadow/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/SaiShadow/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SaiShadow/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2409-count-days-spent-together](https://github.com/SaiShadow/LeetCode/tree/master/2409-count-days-spent-together) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/SaiShadow/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
@@ -263,6 +264,7 @@ My answers to LeetCode problems.
 | [1606-find-servers-that-handled-most-number-of-requests](https://github.com/SaiShadow/LeetCode/tree/master/1606-find-servers-that-handled-most-number-of-requests) |
 | [1929-concatenation-of-array](https://github.com/SaiShadow/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SaiShadow/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/SaiShadow/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SaiShadow/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/SaiShadow/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Recursion
