@@ -150,6 +150,7 @@ My answers to LeetCode problems.
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/SaiShadow/LeetCode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1700-minimum-time-to-make-rope-colorful](https://github.com/SaiShadow/LeetCode/tree/master/1700-minimum-time-to-make-rope-colorful) |
 | [2095-minimum-number-of-swaps-to-make-the-string-balanced](https://github.com/SaiShadow/LeetCode/tree/master/2095-minimum-number-of-swaps-to-make-the-string-balanced) |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/SaiShadow/LeetCode/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SaiShadow/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/SaiShadow/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SaiShadow/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
