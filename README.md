@@ -47,6 +47,7 @@ My answers to LeetCode problems.
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/SaiShadow/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
 | [3041-maximize-consecutive-elements-in-an-array-after-modification](https://github.com/SaiShadow/LeetCode/tree/master/3041-maximize-consecutive-elements-in-an-array-after-modification) |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SaiShadow/LeetCode/tree/master/3105-longest-strictly-increasing-or-strictly-decreasing-subarray) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SaiShadow/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SaiShadow/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SaiShadow/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SaiShadow/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -80,6 +81,7 @@ My answers to LeetCode problems.
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/SaiShadow/LeetCode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/SaiShadow/LeetCode/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/SaiShadow/LeetCode/tree/master/2916-subarrays-distinct-element-sum-of-squares-ii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SaiShadow/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/SaiShadow/LeetCode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/SaiShadow/LeetCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SaiShadow/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -156,6 +158,7 @@ My answers to LeetCode problems.
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SaiShadow/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2409-count-days-spent-together](https://github.com/SaiShadow/LeetCode/tree/master/2409-count-days-spent-together) |
 | [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/SaiShadow/LeetCode/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SaiShadow/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/SaiShadow/LeetCode/tree/master/3863-minimum-operations-to-sort-a-string) |
 ## Stack
 |  |
@@ -221,6 +224,7 @@ My answers to LeetCode problems.
 | ------- |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/SaiShadow/LeetCode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiShadow/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SaiShadow/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -228,6 +232,7 @@ My answers to LeetCode problems.
 | [1254-number-of-closed-islands](https://github.com/SaiShadow/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/SaiShadow/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/SaiShadow/LeetCode/tree/master/1306-jump-game-iii) |
+| [3331-find-subtree-sizes-after-changes](https://github.com/SaiShadow/LeetCode/tree/master/3331-find-subtree-sizes-after-changes) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/SaiShadow/LeetCode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
 ## Breadth-First Search
 |  |
