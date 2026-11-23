@@ -21,6 +21,7 @@ My answers to LeetCode problems.
 | [1254-number-of-closed-islands](https://github.com/SaiShadow/LeetCode/tree/master/1254-number-of-closed-islands) |
 | [1267-count-servers-that-communicate](https://github.com/SaiShadow/LeetCode/tree/master/1267-count-servers-that-communicate) |
 | [1306-jump-game-iii](https://github.com/SaiShadow/LeetCode/tree/master/1306-jump-game-iii) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SaiShadow/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SaiShadow/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SaiShadow/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiShadow/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -256,6 +257,7 @@ My answers to LeetCode problems.
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/SaiShadow/LeetCode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/SaiShadow/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0795-k-th-symbol-in-grammar](https://github.com/SaiShadow/LeetCode/tree/master/0795-k-th-symbol-in-grammar) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SaiShadow/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/SaiShadow/LeetCode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SaiShadow/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/SaiShadow/LeetCode/tree/master/1569-number-of-ways-to-reorder-array-to-get-same-bst) |
@@ -297,6 +299,7 @@ My answers to LeetCode problems.
 |  |
 | ------- |
 | [0817-design-hashmap](https://github.com/SaiShadow/LeetCode/tree/master/0817-design-hashmap) |
+| [1352-product-of-the-last-k-numbers](https://github.com/SaiShadow/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 ## Hash Function
 |  |
 | ------- |
@@ -330,6 +333,7 @@ My answers to LeetCode problems.
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/SaiShadow/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 | [1524-number-of-sub-arrays-with-odd-sum](https://github.com/SaiShadow/LeetCode/tree/master/1524-number-of-sub-arrays-with-odd-sum) |
 | [3364-minimum-positive-sum-subarray](https://github.com/SaiShadow/LeetCode/tree/master/3364-minimum-positive-sum-subarray) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/SaiShadow/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
@@ -414,4 +418,8 @@ My answers to LeetCode problems.
 |  |
 | ------- |
 | [3420-count-non-decreasing-subarrays-after-k-operations](https://github.com/SaiShadow/LeetCode/tree/master/3420-count-non-decreasing-subarrays-after-k-operations) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/SaiShadow/LeetCode/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
