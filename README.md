@@ -265,6 +265,7 @@ My answers to LeetCode problems.
 | [1635-number-of-good-pairs](https://github.com/SaiShadow/LeetCode/tree/master/1635-number-of-good-pairs) |
 | [2244-number-of-laser-beams-in-a-bank](https://github.com/SaiShadow/LeetCode/tree/master/2244-number-of-laser-beams-in-a-bank) |
 | [2409-count-days-spent-together](https://github.com/SaiShadow/LeetCode/tree/master/2409-count-days-spent-together) |
+| [3360-stone-removal-game](https://github.com/SaiShadow/LeetCode/tree/master/3360-stone-removal-game) |
 | [3411-maximum-subarray-with-equal-products](https://github.com/SaiShadow/LeetCode/tree/master/3411-maximum-subarray-with-equal-products) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/SaiShadow/LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/SaiShadow/LeetCode/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -286,6 +287,7 @@ My answers to LeetCode problems.
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/SaiShadow/LeetCode/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2243-calculate-digit-sum-of-a-string](https://github.com/SaiShadow/LeetCode/tree/master/2243-calculate-digit-sum-of-a-string) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/SaiShadow/LeetCode/tree/master/2343-count-unguarded-cells-in-the-grid) |
+| [3360-stone-removal-game](https://github.com/SaiShadow/LeetCode/tree/master/3360-stone-removal-game) |
 | [3616-make-array-elements-equal-to-zero](https://github.com/SaiShadow/LeetCode/tree/master/3616-make-array-elements-equal-to-zero) |
 ## Recursion
 |  |
